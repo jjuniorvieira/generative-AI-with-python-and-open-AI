@@ -7,3 +7,5 @@
 - immense scale
 - learn from vast amount of data 
 - process training
+
+## GPT - Gennerative Pre-trained Transformer
