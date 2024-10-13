@@ -9,3 +9,4 @@
 - process training
 
 ## GPT - Gennerative Pre-trained Transformer
+- Transformer architecture helps GPT to understand and generate human-like text
